@@ -15,7 +15,6 @@ import {
   Wrench,
   Brain,
   MapPin,
-  Linkedin,
 } from 'lucide-react';
 
 /* ─────────────────────────────────────────────
